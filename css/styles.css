@@ -1,0 +1,41 @@
+body {
+  background-color: #f3f3f3;
+  padding-top: 0px;
+}
+
+img {
+  width: 600px;
+  position: relative;
+  margin: auto auto auto auto;
+  bottom
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 5em position: relative;
+  weight: normal;
+}
+
+.a {
+  background-color: #1b262c;
+  color: #f4efd3;
+}
+
+div {
+  height: 19px;
+  font-family: 'IM Fell French Canon SC', serif;
+  margin-top: 0px;
+}
+
+.sj {
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 20px;
+}
+h3 {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 2rem;
+}
